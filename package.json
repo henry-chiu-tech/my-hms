@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "yarn dev",
+    "build": "yarn build",
+    "start": "yarn start",
+    "lint": "yarn lint"
   },
   "dependencies": {
+    "@types/react-date-range": "^1.4.9",
     "date-fns": "^4.1.0",
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
