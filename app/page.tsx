@@ -27,8 +27,8 @@ export default function HolidayHomePage() {
       {/* Hero Section */}
       <section className={styles.hero}>
         <div className={styles.heroContent}>
-          <h1>Lakeside Luxury Retreat</h1>
-          <p>Escape to paradise in this stunning seaside holiday home.</p>
+          <h1>Jim's Lakeside Luxury Retreat</h1>
+          <p>Escape Jim and go to a paradise in this stunning lakeside holiday home.</p>
         </div>
       </section>
 
@@ -74,7 +74,7 @@ export default function HolidayHomePage() {
           {/* Description Section */}
 
           <div className={styles.description}>
-            <h2>About This Property</h2>
+            <h2>About Jim's Property</h2>
             <p>
               Nestled along the coast, this luxury holiday home offers breathtaking ocean views, 
               modern amenities, and a tranquil escape from the hustle of daily life.

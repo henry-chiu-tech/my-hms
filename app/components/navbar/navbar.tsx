@@ -30,7 +30,7 @@ const Navbar = () => {
                                 px-6
                             "
                         >
-                            Welcome To My Holiday House
+                            Welcome To Jim's Holiday House
                         </div>
                         
                     </Container>
