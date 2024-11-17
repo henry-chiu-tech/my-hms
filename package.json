@@ -1,12 +1,12 @@
 {
   "name": "nextjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
-    "dev": "yarn dev",
-    "build": "yarn build",
-    "start": "yarn start",
-    "lint": "yarn lint"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "@types/react-date-range": "^1.4.9",
