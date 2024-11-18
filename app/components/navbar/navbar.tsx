@@ -3,7 +3,7 @@ import Logo from "./logo";
 
 const Navbar = () => {
     return (
-            <div className="fixed w-full bg-white z-10 shadow-sm" >
+            <div className="fixed w-full bg-white z-10 shadow-md" >
                 <div
                     className="
                         py-4
